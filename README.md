@@ -1,15 +1,8 @@
 ## Hi there 👋
 
-<!--
-**kingNomad3/kingNomad3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+Engineer;Lifelong+Learner;Open+Source+Lover&center=true&width=500&height=50)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Team+Player+%7C+Club+Member&center=true&width=500&height=50)
 
 ---
-
-## 🔧 Technologies & Tools
 
 ## 🔧 Technologies & Tools
 
@@ -22,7 +15,6 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)  
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea)  
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
 
 ---
 
@@ -37,9 +29,6 @@ Here are some ideas to get you started:
 
 ## 📌 About Me
 
-=
 - 🎓 I’m currently studying **Software Engineering** at **ÉTS Montréal**.
 - 🌱 Currently learning about **object-oriented design**, **systems programming**, **software architecture**, **cybersecurity**, and **team collaboration tools**.
-- 🤝 Actively involved in student clubs at ÉTS, including **SynapsETS**, **CedilleETs**, and **DCI ETS** — where I grow through teamwork, projects, and technical challenges.
-
-
+- 🤝 Actively involved in student clubs at ÉTS, including **SynapsETS**, **CédilleÉTS**, and **DCI ÉTS** — where I grow through teamwork, projects, and technical challenges.
