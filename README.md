@@ -24,6 +24,10 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/kingNomad3/github-stats-cache/main/github-stats.svg" alt="GitHub Stats" width="500" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingNomad3&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 <p align="center"><em>I mostly contribute to private repositories, so public GitHub activity may appear limited.</em></p>
 
