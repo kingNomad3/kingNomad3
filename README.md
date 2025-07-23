@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingNomad3&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/kingNomad3/github-stats-cache/main/github-stats.svg" alt="GitHub Stats" width="500" />
 </p>
 
 <p align="center"><em>I mostly contribute to private repositories, so public GitHub activity may appear limited.</em></p>
