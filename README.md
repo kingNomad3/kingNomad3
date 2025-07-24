@@ -55,8 +55,9 @@
 - 💻 [Cédille ÉTS](https://cedille.etsmtl.ca/) — Member  
   *Student club focused on software development, DevOps practices, and collaboration tools.*
 
-- 🔐 DCI ÉTS — Member  
+- 🔐 [DCI ÉTS](https://www.etsmtl.ca/clubs/delegation-des-competitions-en-informatique-de-l-ets) — Member  
   *Cybersecurity club offering technical workshops, CTF challenges, vulnerability analysis, and participation in competitions such as Hackfest, NorthSec, and CSAW.*
+
 
 ---
 
