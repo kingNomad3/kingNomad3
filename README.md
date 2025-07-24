@@ -47,16 +47,16 @@
 
 ---
 
-## 🤝 Clubs Étudiants
+## 🤝 Student Clubs
 
-- 🦿 [SynapsÉTS](https://synapsets.etsmtl.ca/) — Directeur logiciel  
-  *Club multidisciplinaire travaillant sur des projets innovants en ingénierie, dont un exosquelette de jambe motorisé.*
+- 🦿 [SynapsÉTS](https://synapsets.etsmtl.ca/) — Software Lead  
+  *Multidisciplinary engineering club working on innovative projects, including a motorized leg exoskeleton.*
 
-- 💻 [Cédille ÉTS](https://cedille.etsmtl.ca/) — Membre  
-  *Club étudiant spécialisé en développement logiciel, DevOps, et outils de collaboration.*
+- 💻 [Cédille ÉTS](https://cedille.etsmtl.ca/) — Member  
+  *Student club focused on software development, DevOps practices, and collaboration tools.*
 
-- 🔐 DCI ÉTS — Membre  
-  *Club axé sur la cybersécurité : ateliers techniques, CTFs, analyse de vulnérabilités, et participation à des compétitions comme Hackfest, NorthSec et CSAW.*
+- 🔐 DCI ÉTS — Member  
+  *Cybersecurity club offering technical workshops, CTF challenges, vulnerability analysis, and participation in competitions such as Hackfest, NorthSec, and CSAW.*
 
 ---
 
